@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use RPDindexOptimized in scientific work, please cite this software release and the original RPD work as appropriate."
+title: "RPDindexOptimized: optimized Python implementation of the RPD indices"
+type: software
+authors:
+  - family-names: "Righi"
+    given-names: "Marco"
+    email: "marco.righi@cnr.it"
+repository-code: "https://github.com/marcorighi/RPDindexOptimized"
+license: "BSD-3-Clause"
+keywords:
+  - "RPD"
+  - "research software"
+  - "algorithm optimization"
+  - "Fenwick tree"
+  - "time series"
+
+references:
+  - type: software
+    title: "RPDindex"
+    doi: "10.5281/zenodo.20313771"
+    repository-code: "https://github.com/marcorighi/RPDindex"
+
+# Complete these fields after the first Zenodo archival release.
+# Keep them commented until real values are available so that CITATION.cff
+# remains valid.
+#
+# version: "<RELEASE_VERSION>"
+# date-released: "<YYYY-MM-DD>"
+# doi: "<ZENODO_SOFTWARE_DOI>"
+
+# If the technical report receives a separate DOI, add it as an additional
+# reference after publication, for example:
+#
+#   - type: report
+#     title: "<TECHNICAL_REPORT_TITLE>"
+#     doi: "<ZENODO_TECHNICAL_REPORT_DOI>"

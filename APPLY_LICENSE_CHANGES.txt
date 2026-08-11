@@ -1,0 +1,41 @@
+RPDindexOptimized - license update files
+========================================
+
+Copy these files into the root of the RPDindexOptimized repository:
+
+  LICENSE
+  DOCUMENTATION_LICENSE.md
+  README.md
+  CITATION.cff
+
+Then replace:
+
+  technical_report/README.md
+
+with:
+
+  technical_report_README.md
+
+Finally remove the old placeholder file:
+
+  LICENSE_DECISION.md
+
+DOI placeholders to replace only after Zenodo records exist:
+
+  <ZENODO_SOFTWARE_DOI>
+  <ZENODO_TECHNICAL_REPORT_DOI>
+
+After the first software release, also complete in CITATION.cff:
+
+  <RELEASE_VERSION>
+  <YYYY-MM-DD>
+
+The original RPD reference is already fixed as:
+
+  https://github.com/marcorighi/RPDindex
+  https://doi.org/10.5281/zenodo.20313771
+
+NOTE:
+The LICENSE file currently names "Marco Righi" as copyright holder.
+If institutional CNR ownership or joint ownership applies, change the
+copyright line before the public release.
