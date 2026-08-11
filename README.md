@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1331156572.svg)](https://doi.org/10.5281/zenodo.21892420)
+
 # RPDindexOptimized
 
 `RPDindexOptimized` provides an algorithmically optimized Python implementation of the six RPD indices while preserving the intended semantics of the original RPD software for finite numerical sequences containing at least two elements.
