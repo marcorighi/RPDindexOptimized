@@ -18,4 +18,23 @@ Historical software references:
 - https://github.com/marcorighi/RPDindex
 - https://doi.org/10.5281/zenodo.20313771
 
-Do not assign a DOI for the optimized software in this file until the exact GitHub release to be archived is finalized.
+## Citation
+
+If the documentation or technical report contributes to scientific work,
+please cite the corresponding archived record.
+
+Optimized software DOI:
+
+https://doi.org/10.5281/zenodo.21892421
+
+Technical report DOI, if deposited separately:
+
+10.5281/zenodo.21898684
+
+Original RPD software reference:
+
+https://doi.org/10.5281/zenodo.20313771
+
+Original repository:
+
+https://github.com/marcorighi/RPDindex
