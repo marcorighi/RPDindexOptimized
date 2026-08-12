@@ -28,10 +28,13 @@ references:
     title: "RPDindex"
     doi: "10.5281/zenodo.20313771"
     repository-code: "https://github.com/marcorighi/RPDindex"
+  - type: report
+    title: "RPDindexOptimized: Algorithmic Optimization, Numerical Equivalence, and Reproducible Validation of the RPD Indices"
+    doi: "10.5281/zenodo.21898684"
 
 # Add the DOI assigned by Zenodo after this release has been archived:
 #
-# doi: "<ZENODO_SOFTWARE_DOI>"
+# doi: "10.5281/zenodo.21898684"
 #
 # If the technical report later receives a separate DOI, add another item
 # under the existing "references:" section:
