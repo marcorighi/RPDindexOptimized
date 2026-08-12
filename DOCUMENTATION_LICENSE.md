@@ -25,11 +25,11 @@ please cite the corresponding archived record.
 
 Optimized software DOI:
 
-`<ZENODO_SOFTWARE_DOI>`
+https://doi.org/10.5281/zenodo.21892421
 
 Technical report DOI, if deposited separately:
 
-`<ZENODO_TECHNICAL_REPORT_DOI>`
+10.5281/zenodo.21898684
 
 Original RPD software reference:
 
